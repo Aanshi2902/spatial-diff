@@ -1,0 +1,8 @@
+# Local (CPU) pipeline: alignment, change detection, labelling, visualisation
+numpy>=1.20
+scipy>=1.6
+plotly>=5.0
+opencv-python-headless>=4.5
+# Optional: better global alignment (FPFH + RANSAC). Python 3.8 -> open3d==0.17.0
+# open3d
+# GPU stage (Colab only): see notebooks/colab_reconstruct.ipynb  (VGGT, torch)
