@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/spatial-diff/data"
+		},
+		{
+			"path": "../../Desktop/spatial-diff/notebooks"
+		},
+		{
+			"path": "../../Desktop/spatial-diff/outputs"
+		},
+		{
+			"path": "../../Desktop/spatial-diff/src"
+		},
+		{
+			"path": "../../Desktop/spatial-diff/tests"
+		}
+	],
+	"settings": {}
+}
